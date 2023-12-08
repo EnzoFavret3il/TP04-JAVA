@@ -9,10 +9,4 @@ public class Rectangle {
 		this.hauteur = hauteur;
 	}
 	
-	@Override
-	public String ToString() {
-		
-	}
-	
-	
 }
